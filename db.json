@@ -1,0 +1,22 @@
+{
+  "CommentsList": [
+    {
+      "Name": "Abdirizak",
+      "Address": "json-server",
+      "Message": "Hello i am Abdirizak Abdullahi Hassan i am one of the persons that shop this website for online shopping so i tell others to order this website their shopping because its reliable for online shopping so i tell others to order this website ",
+      "Email":"this is Email"
+    },
+    {
+      "Name": "Abdulkadir",
+      "Address": "json-server",
+      "Message": "Most persons say don't trust to shop online because there is unreliable websites that what you oredered and what you get is different, but i say that is lie because there is reliable website like this",
+      "Email":"this is Email"
+    },
+    {
+      "Name": "Ahmed",
+      "Address": "json-server",
+      "Message": "Most persons say don't trust to shop online because there is unreliable websites that what you oredered and what you get is different, but i say that is lie because there is reliable website like this and this is extra one",
+      "Email":"this is Email"
+    }
+  ]
+}
